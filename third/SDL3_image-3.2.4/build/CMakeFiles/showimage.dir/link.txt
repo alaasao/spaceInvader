@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -g -DNDEBUG -Wl,--dependency-file=CMakeFiles/showimage.dir/link.d CMakeFiles/showimage.dir/examples/showimage.c.o -o showimage  -Wl,-rpath,/home/kyoraku/Desktop/c/tp/sdl/SDL3_image-3.2.4/build:/home/kyoraku/Desktop/c/tp/sdl/SDL3-3.2.24/build libSDL3_image.so.0.2.4 /home/kyoraku/Desktop/c/tp/sdl/SDL3-3.2.24/build/libSDL3.so.0.2.24
